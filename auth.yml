@@ -31,6 +31,9 @@ registry.cn-wulanchabu.aliyuncs.com:
 registry.cn-zhangjiakou.aliyuncs.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
+crpi-3bxvoltbem79eu6z.cn-beijing.personal.cr.aliyuncs.com:
+  username: $TARGET_REGISTRY_USER
+  password: $TARGET_REGISTRY_PASSWORD
 $TARGET_REGISTRY:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
